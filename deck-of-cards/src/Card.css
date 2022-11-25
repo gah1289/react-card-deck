@@ -1,0 +1,6 @@
+.Card {
+	display: inline-flex;
+	align-self: center;
+	height: 200px;
+	margin-left: -100px;
+}
